@@ -19,7 +19,7 @@ gtts_supported = tts_langs()
 st.title("Translator 360 🌍")
 
 # Description with an emoji
-st.write("Translate text in real-time and hear the pronunciation instantly. Just choose your languages and enter text! 🗣️")
+st.write("Real-time text translation with instant pronunciation. Select, type, and listen! 🗣️")
 
 # Add a nice separator line
 st.markdown("---")
