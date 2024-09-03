@@ -47,7 +47,7 @@ To run this app locally, follow these steps:
 
 ## Live Demo
 
-Explore the live version of Translator 360 on Streamlit Community Cloud [here](#).
+Explore the live version of Translator 360 on Streamlit Community Cloud [here](https://ap-translator-360.streamlit.app/).
 
 ## License
 
@@ -59,4 +59,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## Contact
 
-For any questions or feedback, please contact Arunangshu Prasad Bhattacharya(mailto:bhattacharyaarun15@gmail.com).
+For any questions or feedback, please contact [Arunangshu Prasad Bhattacharya](mailto:bhattacharyaarun15@gmail.com).
