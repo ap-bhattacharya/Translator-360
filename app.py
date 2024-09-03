@@ -16,10 +16,10 @@ from gtts.lang import tts_langs
 gtts_supported = tts_langs()
 
 # Streamlit app title with emojis
-st.title("Real-Time Language Translator 🌍")
+st.title("Translator 360 🌍")
 
 # Description with an emoji
-st.write("Translate text between different languages instantly and hear the pronunciation! 🗣️")
+st.write("Translate text in real-time and hear the pronunciation instantly. Just choose your languages and enter text! 🗣️")
 
 # Add a nice separator line
 st.markdown("---")
