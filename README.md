@@ -1,4 +1,4 @@
-# Translator 360 🌐
+# Translator 360 🌍
 
 Translator 360 is a real-time language translation web app built with Streamlit. It uses Google Translate for instant text translations and gTTS for pronunciation assistance. This application is designed to help users translate text between multiple languages and hear the pronunciation of the translated text.
 
