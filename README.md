@@ -1,12 +1,3 @@
-Here’s the repository name and description for **Translator 360**:
-
-### **Repository Name:**
-`Translator-360`
-
-### **Description:**
-
----
-
 ## Translator 360 🌐
 
 **Translator 360** is a powerful Streamlit application designed to translate text between multiple languages in real-time. Leveraging Google Translate and Google Text-to-Speech (gTTS), this app provides instant translations and pronunciation assistance, making it a valuable tool for language enthusiasts, travelers, and professionals.
