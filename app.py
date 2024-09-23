@@ -103,4 +103,4 @@ if st.button("Translate 🔄"):
 # Footer with some style
 st.markdown("---")
 st.write("💡 **Tip:** You can translate any language you want and hear the pronunciation!")
-st.write("Made with ❤️ using Streamlit.")
+st.write("Made with ❤️ using Streamlit by AP Bhattacharya.")
